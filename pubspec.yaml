@@ -1,7 +1,10 @@
 name: native_battery_info
 description: "A new Flutter plugin project."
-version: 0.0.1
-homepage:
+version: 0.0.1 
+repository: https://github.com/umangmos/native_battery_info
+platforms:
+  ios:
+  android:
 
 environment:
   sdk: '>=3.3.2 <4.0.0'
