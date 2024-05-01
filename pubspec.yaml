@@ -1,5 +1,5 @@
 name: native_battery_info
-description: "A new Flutter plugin project."
+description: "Gives phones current battery in percentage."
 version: 0.0.1 
 repository: https://github.com/umangmos/native_battery_info
 platforms:
